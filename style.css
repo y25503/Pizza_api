@@ -1,0 +1,12 @@
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    text-align: center;
+    background-color: #fece7b;
+    padding: 20px;
+}
+
+img{
+    height: 500px;
+    width: 500px;
+}
+
