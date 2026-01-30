@@ -31,7 +31,7 @@ async function fetchpizzaImage() {
 
     } catch (error) {
         console.error('エラー:', error);
-        loadingText.textContent = '（取得失敗）';
+        loadingText.textContent = 'ピザが冷めてしまいました。（取得失敗）';
         btnElement.disabled = false;
     }
 }
